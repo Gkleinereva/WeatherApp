@@ -13,5 +13,9 @@
 }
 
 .imageClass {
+	height: 300px;
+	top: 0px;
 	position: absolute;
+	animation: sizeChange 3s infinite;
 }
+
