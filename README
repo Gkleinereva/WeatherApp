@@ -1,3 +1,6 @@
 README
 
-Here is a real Readme for my weather App.
+This is a freecodecamp.org project.
+
+The website grabs weather data for the user's location and displays it on the screen.
+It also includes a cute animated weather icon across the top (east to west, naturally).
