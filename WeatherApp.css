@@ -1,3 +1,17 @@
-h1 {
+.unit {
+	cursor: pointer;
 	color: blue;
+	text-decoration: underline;
+}
+
+.textClass {
+	position: relative;
+	margin: auto;
+	width: 40%;
+	padding-top: 300px;
+	z-index: -1;
+}
+
+.imageClass {
+	position: absolute;
 }
